@@ -1,0 +1,69 @@
+body {
+  background-color: #f5f5f5;
+  font-family: "Manrope", sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1400px;
+  background: #ffffff;
+  padding: 125px;
+}
+
+h1 {
+  width: 956px;
+  height: 120px;
+  margin-bottom: 30px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.interior {
+  background-image: url(../images/Stul.png);
+  margin-top: 30px;
+  padding-top: 379px;
+  padding-left: 40px;
+  margin: 0 auto;
+  height: 500px;
+  width: 1150px;
+}
+.interior > p {
+   width: 430px;
+  height: 81px;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 27.32px;
+  color: #ffffff;
+  text-align: left;
+  letter-spacing: -0.03em;
+}
+
+h2{
+
+font-size: 18px;
+font-weight: 400;
+line-height: 24.59px;
+letter-spacing: -0.03em;
+text-align: left;
+}
+
+p.description{
+font-size: 45px;
+font-weight: 400;
+line-height: 61.47px;
+letter-spacing: -0.03em;
+text-align: left;
+margin-top: 30px;
+}
+
+a{display: inline-block;
+  margin-top: 30px;
+  padding: 20px 40px;
+  background-color: #ad1818;
+  color: #ffffff;
+  border-radius: 5px;
+  text-decoration: none;
+  }
